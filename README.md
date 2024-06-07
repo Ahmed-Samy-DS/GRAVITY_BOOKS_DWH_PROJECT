@@ -10,6 +10,7 @@ SSAS
 Excel
 Power BI
 I also applied slowly changing dimensions Type 1 and Type 2 in many cases as the business required.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This project is an end-to-end Business Intelligence solution, starting from designing the data warehouse based on the business needs:
 
